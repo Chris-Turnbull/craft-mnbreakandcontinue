@@ -1,10 +1,8 @@
 <?php
-namespace Craft;
 
 /**
  * MN Break and Continue
  *
- * @package   Craft
  * @author    Marion Newlevant
  * @copyright Copyright (c) 2014, Marion Newlevant
  * @license   MIT
